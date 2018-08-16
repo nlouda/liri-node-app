@@ -1,0 +1,20 @@
+[
+  "spotify-this-song -- donde estas corazon",
+  {
+    "Artist(s)": "Shakira",
+    "Track Name": "Donde Estas Corazon",
+    "Preview Link": "https://p.scdn.co/mp3-preview/28b6b0789340e7332ee06a6822709b6399aeea66?cid=e5ad659e46d1458aa0cc2263fd43f668",
+    "Album": "Pies Descalzos"
+  }
+][
+  "movie-this--shrek",
+  {
+    "Title": "Shrek",
+    "Year": "2001",
+    "IMDB Rating": "7.9/10",
+    "Rotten Tomato Rating": "88%",
+    "Production Country": "USA",
+    "Plot": "After his swamp is filled with magical creatures, Shrek agrees to rescue Princess Fiona for a villainous lord in order to get his land back.",
+    "Actors": "Mike Myers, Eddie Murphy, Cameron Diaz, John Lithgow"
+  }
+]
