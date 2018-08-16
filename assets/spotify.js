@@ -6,7 +6,7 @@ const spotify = new Spotify(keys.spotify);
 
 async function spotifySearch(available) {
     if (process.argv[3] === undefined) {
-        return console.log("search for a song");
+        return console.log("Search for a songnode liri.js spotify-this-song '<song name here>'");
     }
     let song = await spotify.search({
         query: encodeURIComponent(available.trim()),

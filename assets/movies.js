@@ -21,7 +21,7 @@ fs.appendFileSync("./random.txt", JSON.stringify([process.argv[2] + "--" +proces
 return console.log(JSON.stringify(movie, null, 2));
 }catch(error){
     if(process.argv[3]=== undefined){
-        return console.log("Search movie");
+        return console.log("Search movie node liri.js movie-this '<movie name here>'");
     }
 return console.log(error);
 }
